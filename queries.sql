@@ -9,6 +9,8 @@ SELECT * FROM animals WHERE weight_kg BETWEEN 10.4 AND 17.3;
 
 /* Day 2 */
 
+/* Transaction 1 */
+
 BEGIN;
 
 UPDATE animals SET species='unspecified';
@@ -25,6 +27,8 @@ COMMIT;
 
 SELECT * FROM animals;
 
+/* Transaction 2 */
+
 BEGIN;
 
 DELETE FROM animals;
@@ -32,6 +36,8 @@ DELETE FROM animals;
 ROLLBACK;
 
 SELECT * FROM animals;
+
+/* Transaction 3 */
 
 BEGIN;
  
