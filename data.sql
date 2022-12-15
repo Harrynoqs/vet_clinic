@@ -3,4 +3,12 @@ INSERT INTO animals (name, date_of_birth,escape_attempts, neutered,weight_kg) VA
  ('Gabumon', '11-15-2018', 2, 'True', 8),
   ('Pikachu', '01-07-2021', 1, 'False', 15.04),
   ('Devimon', '05-12-2017', 5, 'True', 11);
-  
+
+INSERT INTO animals (name, date_of_birth,escape_attempts, neutered,weight_kg) VALUES 
+  ('Charmander', '02-08-2020', 0, 'False', -11),
+  ('Plantmon', '11-15-2021', 2, 'True', -5.7),
+  ('Squirtle', '04-02-1993', 3, 'False', -12.13),
+  ('Angemon', '06-12-2005', 1, 'True', -45),
+  ('Boarmon', '06-07-2005', 7, 'True', 20.4),
+  ('Blossom', '10-13-1998', 3, 'True', 17),
+  ('Ditto', '05-14-2022', 4, 'True', 22);
