@@ -57,11 +57,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Vet-Clinic Database] <a name="about-project"></a>
+# 📖 [ Vet clinic database: query multiple tables] <a name="about-project"></a>
 
->> In this project, I used a relational database and PostgreSQL to create the initial data structure for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
+In this project I added some new tables and add foreign key columns to your existing animals table to model one-to-many relationships. Afterward, I used JOIN to query the data.
 
-**[Vet clinic database: query and update animals table]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
