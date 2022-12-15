@@ -57,10 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Vet clinic database: query multiple tables] <a name="about-project"></a>
+# 📖 [ Vet clinic database: add "join table" for visits] <a name="about-project"></a>
 
-In this project I added some new tables and add foreign key columns to your existing animals table to model one-to-many relationships. Afterward, I used JOIN to query the data.
-
+In this project, I added some many-to-many relationships and wrote more complex queries used them to answer questions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
