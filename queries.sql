@@ -24,9 +24,22 @@ SELECT species FROM animals;
 BEGIN;
 
 UPDATE animals SET species='digimon' WHERE name LIKE '%mon';
+
+
+SELECT * FROM animals;
+
+BEGIN;
+
 UPDATE animals SET species='pokemon' WHERE name NOT LIKE '%mon';
 
-COMMIT;
+SELECT * FROM animals;
+
+BEGIN
+
+UPDATE animals SET species='digimon' WHERE name LIKE '%mon';
+UPDATE animals SET species='pokemon' WHERE name NOT LIKE '%mon';
+
+COMMIT
 
 SELECT * FROM animals;
 
