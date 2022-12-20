@@ -57,9 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Vet clinic database: add "join table" for visits] <a name="about-project"></a>
+# 📖 [ Vet clinic database: database performance audit] <a name="about-project"></a>
 
-In this project, I added some many-to-many relationships and wrote more complex queries used them to answer questions.
+In this project I optimized some slow queries in your database.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -105,11 +105,11 @@ GitHub: https://github.com/Harrynoqs)
 Twitter: https://twitter.com/noqsnoq1
 LinkedIn:https://linkedin.com/in/harrisonw-njuguna
 
-👤 **Author2**
+👤 **Jonah Wambua**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/DJ-MrJay)
+- Twitter: [@twitterhandle](https://twitter.com/jonah_wambua)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mr-jay/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
